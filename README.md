@@ -10,14 +10,14 @@ Pós-graduação em Ciência de Dados prevista para 2026.
 
 <h2>📊 Linguagens e Tecnologias</h2>
 
-<h3>💻 Foco em:</h3>
+<h3>Foco em:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
-<h3>📈 Explorando:</h3>
+<h3>Explorando:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
