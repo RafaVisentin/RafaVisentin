@@ -1,4 +1,4 @@
-# 🦇 Rafael S. Visentin
+# Rafael S. Visentin 🦇
 
 **`Foco em: Análise de Dados`**
 
